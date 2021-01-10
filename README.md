@@ -1,6 +1,6 @@
 # rotunda-test
 
-In this repo you'll find two JS exercises resolved by me:
+In this repo you'll find two JS exercises solved by me:
 
 1. Zoo exercise
 2. URLparser
