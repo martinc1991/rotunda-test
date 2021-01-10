@@ -11,26 +11,26 @@ Although you can watch the code directly from here (not so many lines), I would 
 
 First, clone this repo in a folder of your preference _(let's call it 'localfolder'):_
 
-```shell
-# /localfolder
+```js
+// /localfolder
 git clone https://github.com/martinc1991/rotunda-test.git
 ```
 
-> That would download all the files from the repo to your PC.
+> That will download all the files from the repo to your PC.
 
 Next, you should go to the root folder of the project and run `npm install`:
 
-```shell
-# /localfolder
+```js
+// /localfolder
 cd rotunda
-# /localfolder/rotunda
+// /localfolder/rotunda
 npm install
 ```
 
 Finally, to run the test, in that root folder (or any folder within) run the command `npm test`:
 
-```shell
-# /localfolder/rotunda (or any folder)
+```js
+// /localfolder/rotunda (or any folder)
 npm test
 ```
 
